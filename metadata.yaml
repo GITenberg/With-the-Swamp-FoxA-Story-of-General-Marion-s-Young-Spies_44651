@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44651#With-the-Swamp-FoxA-Story-of-General-Marion-s-Young-Spies
 gutenberg_issued: '2014-01-12'
 gutenberg_type: Text
 identifiers:
